@@ -1,0 +1,1 @@
+se utilizará obligatoriamente la plantilla de documentación técnica facilitada. El documento tendrá carácter acumulativo, por lo que deberá incluir tanto los nuevos apartados como los desarrollados en las entregas anteriores, incorporando las correcciones y mejoras oportunas.
